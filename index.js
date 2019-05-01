@@ -1,6 +1,6 @@
 var katzDeliLine = [];
 function takeANumber(line){
-line = katzDeliLine
+var name = []
 line.push(`${name}`);
   return(`Welcome, ${name}. You are number ${line.length} in line.`);
 }
