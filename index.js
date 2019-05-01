@@ -1,6 +1,6 @@
 var katzDeliLine = [];
 function takeANumber(line, name){
-  var name = [1,2,3,4,5,6,7]
+
 line.push(`${name}`);
   return(`Welcome, ${name}. You are number ${line.length} in line.`);
 }
@@ -10,7 +10,7 @@ function nowServing(katzDeli) {
   while (i < katzDeli.length) {
     i++;
   }
-  if (katzDeli.length === 0) {
+  if (katzDehttp://gizmodo.com/li.length === 0) {
     return "There is nobody waiting to be served!";
   }
   else
